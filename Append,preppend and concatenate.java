@@ -11,11 +11,8 @@ public class Hello {
 	    for(int i=0;i<n;i++){
 	        String y=sc.nextLine();
 	       // System.out.print(y);
-	       
 	        if(y.charAt(0)=='S' && y.charAt(2)=='+'){
-	           
 	            a.append(str.charAt(str.length()-1));
-	            
 	        }
 	        else if(y.charAt(1)=='+' && y.charAt(2)=='1'){
 	       
