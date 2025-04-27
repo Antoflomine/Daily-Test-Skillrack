@@ -18,7 +18,6 @@ class Parent {
         System.out.println(this.age);
     }
 }
-
 class Child extends Parent {
     private String name;
     private int age;
