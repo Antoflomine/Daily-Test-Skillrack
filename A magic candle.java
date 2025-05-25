@@ -64,9 +64,6 @@ public class Hello {
 	             ne=(d+x);
 	         }
 	    }
-	    System.out.print(tng);
-	    
-	   
-
+	    System.out.print(tng);	    
 	}
 }
