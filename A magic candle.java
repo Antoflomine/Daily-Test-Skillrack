@@ -39,7 +39,6 @@
 // At t = 14, the candle is glowing and so on.
 // The total time that the candle is not in glowing state is 7. So 7 is printed as the output
 
-
 import java.util.*;
 public class Hello {
     public static void main(String[] args) {
