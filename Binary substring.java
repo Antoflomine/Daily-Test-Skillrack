@@ -30,7 +30,6 @@ public class Hello {
 		}
 	//	System.out.println(c);
 	//	System.out.println(Arrays.toString(arr));
-	
 
 	}
 }
