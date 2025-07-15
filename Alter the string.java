@@ -19,7 +19,7 @@ public class Hello {
 		}
 		m+=s.substring(R,s.length());
 		//System.out.println(m);
-		System.out.println(m.charAt(N-1));
+	    System.out.println(m.charAt(N-1));
 
 	}
 }
