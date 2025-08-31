@@ -11,6 +11,8 @@ public class Hello {
 		    if(s.charAt(i)=='0'){
 		        m+=s.charAt(i);
 		        m+='1';
+
+				
 		    }
 		    else{
 		        m+=s.charAt(i);
