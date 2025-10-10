@@ -11,8 +11,6 @@ public class Hello {
 		    if(s.charAt(i)=='0'){
 		        m+=s.charAt(i);
 		        m+='1';
-
-				
 		    }
 		    else{
 		        m+=s.charAt(i);
@@ -20,7 +18,6 @@ public class Hello {
 		    }
 		}
 		m+=s.substring(R,s.length());
-		//System.out.println(m);
 	    System.out.println(m.charAt(N-1));
 
 	}
