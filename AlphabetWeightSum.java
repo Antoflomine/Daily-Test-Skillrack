@@ -16,6 +16,7 @@ public class AlphabetWeightSum {
 		for(int i=0; i<str.length(); i++) {
 		    sum += fib[(int)str.charAt(i)-97];
 		}
+		
 		System.out.println(sum);
 	}
 }
