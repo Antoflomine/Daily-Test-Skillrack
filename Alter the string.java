@@ -17,6 +17,7 @@ public class Hello {
 		        m+='0';
 		    }
 		}
+		
 		m+=s.substring(R,s.length());
 	    System.out.println(m.charAt(N-1));
 
