@@ -9,8 +9,7 @@ public class Hello {
 		for(int i=0;i<n;i++){
 		    arr[i]=sc.nextLine();
 		    
-		}
-		
+		}	
 		Map<String,Integer> map=new TreeMap<>();
 		for(int i=0;i<n;i++){
 		    String s=arr[i].substring(0,3);
